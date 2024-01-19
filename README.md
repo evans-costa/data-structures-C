@@ -6,12 +6,12 @@
 <h4 align="center">Um repositório que implementa as estrututas abstratas de dados básicas escritas em linguagem C</h4>
 
 <p align="center">
-  <a href="#description">Descrição</a> •
-  <a href="#motivation">Motivações</a> •
-  <a href="#structure">Estrutura de Arquivos</a> •
-  <a href="#makefile">Entendendo o arquivo Makefile</a>
-  <a href="#how-to-use">Como Usar</a> •
-  <a href="#license">Licença</a>
+  <a href="#descrição">Descrição</a> •
+  <a href="#motivações">Motivações</a> •
+  <a href="#estrutura-de-arquivos">Estrutura de Arquivos</a> •
+  <a href="#entendendo-o-arquivo-makefile">Entendendo o arquivo Makefile</a> •
+  <a href="#como-usar">Como Usar</a> •
+  <a href="#licença">Licença</a>
 </p>
 
 ## Descrição
