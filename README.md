@@ -33,10 +33,11 @@ O projeto está organizado conforme a seguinte estrutura:
 ├── 📂apps/
 │   ├── 📜test_cicular_list.c
 │   ├── 📜test_double_linked_list.c
-│   ├── 📜test_linked_list.c
-│   ├── 📜test_linked_list_exercise.c
+│   ├── 📜test_float_vector.c
 │   ├── 📜test_hash_table_sc.c
 │   ├── 📜test_hash_table.c
+│   ├── 📜test_linked_list_exercise.c
+│   ├── 📜test_linked_list.c
 │   ├── 📜test_queue.c
 │   └── 📜test_stacks.c
 ├── 📂bin
@@ -48,17 +49,18 @@ O projeto está organizado conforme a seguinte estrutura:
 │   ├── 📜hash_table.h
 │   ├── 📜linked_list_exercise.h
 │   ├── 📜linked_list.h
-│   ├── 📜stacks.h
 │   └── 📜queue.h
+│   ├── 📜stacks.h
 ├── 📂lib
 ├── 📂obj
 ├── 📂src/
 │   ├── 📜cicular_list.c
 │   ├── 📜double_linked_list.c
-│   ├── 📜linked_list.c
-│   ├── 📜linked_list_exercise.c
+│   ├── 📜float_vector.c
 │   ├── 📜hash_table_sc.c
 │   ├── 📜hash_table.c
+│   ├── 📜linked_list_exercise.c
+│   ├── 📜linked_list.c
 │   ├── 📜queue.c
 │   └── 📜stacks.c
 └── ⚙️Makefile
