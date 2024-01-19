@@ -11,6 +11,7 @@
   <a href="#estrutura-de-arquivos">Estrutura de Arquivos</a> •
   <a href="#entendendo-o-arquivo-makefile">Entendendo o arquivo Makefile</a> •
   <a href="#como-usar">Como Usar</a> •
+  <a href="#melhorias">Melhorias</a> •
   <a href="#licença">Licença</a>
 </p>
 
