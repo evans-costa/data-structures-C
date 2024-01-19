@@ -142,6 +142,10 @@ Depois de rodar a estrutura desejada, você pode limpar os arquivos gerados dura
 $ make clean
 ```
 
+## Melhorias
+
+No futuro, quero incluir outras estruturas de dados mais complexas em C, como as árvores e suas variações.
+
 ## Licença
 
 The MIT License (MIT) 2023 - Evandro Costa. Por favor, dê uma olhada na LICENSE para mais detalhes.
